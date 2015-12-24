@@ -7,3 +7,11 @@ Microsoft Developer Community Kerala Website
 * List of current MSP's
 
 ##### Under construction! :smiley:
+
+### To Do
+- [ ] Add somw of the past community events as /evnts/eventname.html and link to the mainpage. 
+- [ ] Remove some unused classes
+- [ ] Replace the images if neededm
+- [ ] Add details about the community founder (Mohammed rameez) in the team page
+- [ ] Add details about all current MSP's
+ 
