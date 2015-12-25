@@ -11,7 +11,7 @@ Microsoft Developer Community Kerala Website
 ### To Do
 - [ ] Add some of the past community events as /evnts/eventname.html and link to the mainpage. 
 - [ ] Remove some unused classes
-- [ ] Replace the images if neededm
+- [ ] Replace the images if needed
 - [ ] Add details about the community founder (Mohammed rameez) in the team page
 - [ ] Add details about all current MSP's
 - [ ] Make the landing page logo centered
