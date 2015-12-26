@@ -16,3 +16,9 @@ Microsoft Developer Community Kerala Website
 - [ ] Add details about all current MSP's
 - [ ] Make the landing page logo centered
 - [ ] Add News section
+
+### Contributing
+- Feel free to edit the code and create a pull request here
+- 
+### Branching
+- While contributing please make sure that your for is uptodate with this repo use `git pull https://github.com/mdckerala/mdckerala.github.io.git master` to do that
