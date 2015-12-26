@@ -14,7 +14,6 @@ Microsoft Developer Community Kerala Website
 - [ ] Replace the images if needed
 - [ ] Add details about the community founder (Mohammed rameez) in the team page
 - [ ] Add details about all current MSP's
-- [ ] Make the landing page logo centered
 - [ ] Add News section
 
 ### Contributing
