@@ -18,7 +18,7 @@ Microsoft Developer Community Kerala Website
 
 ### Contributing
 - Feel free to edit the code and create a pull request here
-- While contributing please make sure that your for is uptodate with this repo use `git pull https://github.com/mdckerala/mdckerala.github.io.git master` to do that
+- Before contributing please make sure that your fork is uptodate with this repo use `git pull https://github.com/mdckerala/mdckerala.github.io.git master` to do that
 
 ### Branching
 - Always create a new branch in your fork before making the changes use `git checkout -b "any-name"`
