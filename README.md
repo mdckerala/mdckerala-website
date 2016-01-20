@@ -1,4 +1,4 @@
-# mdckerala.github.io
+# mdckerala website
 Microsoft Developer Community Kerala Website
 
 ### Features
@@ -9,6 +9,7 @@ Microsoft Developer Community Kerala Website
 ##### Under construction! :smiley:
 
 ### To Do
+- [x] Auto deploy to azure
 - [ ] Add some of the past community events as /evnts/eventname.html and link to the mainpage. 
 - [ ] Remove some unused classes
 - [ ] Replace the images if needed
